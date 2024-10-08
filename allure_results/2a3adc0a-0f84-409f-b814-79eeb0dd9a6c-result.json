@@ -1,0 +1,1 @@
+{"name": "Тест добавления ингредиента в заказ", "status": "skipped", "start": 1728419188563, "stop": 1728419188563, "uuid": "aef2d353-4f71-4551-a0ac-ad7856d971a3", "testCaseId": "166d103af4d73e27b92bc6daa9c5d5e8", "fullName": "tests.test_main_page.TestMainPage#test_add_ingredient_to_order"}
