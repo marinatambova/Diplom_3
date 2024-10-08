@@ -1,0 +1,1 @@
+{"name": "Переход по клику на \"Лента заказов\"", "status": "skipped", "start": 1728421199815, "stop": 1728421199815, "uuid": "eb62e701-3052-4a97-a2ee-549ba7abf048", "testCaseId": "69cb27e7dc7dd2898c68effaf4384551", "fullName": "tests.test_main_page.TestMainPage#test_click_orders_feed"}

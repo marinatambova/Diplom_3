@@ -1,0 +1,1 @@
+{"name": "При оформлении заказа будет написано \"В работе\"", "status": "skipped", "start": 1728420430695, "stop": 1728420430695, "uuid": "52c7fe9b-a7f0-44aa-adc1-cbbd8b453946", "testCaseId": "c328823d2787c542675984981f17b860", "fullName": "tests.test_feed_page.TestFeedPage#test_in_work"}
